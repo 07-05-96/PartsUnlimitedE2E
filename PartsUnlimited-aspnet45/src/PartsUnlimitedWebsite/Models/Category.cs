@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 // first code for CGI demo
-// second code
+// second code for canada
 // third
 namespace PartsUnlimited.Models
 {
